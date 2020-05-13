@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "802869710610",
+    "firebase_url": "https://lead-india.firebaseio.com",
+    "project_id": "lead-india",
+    "storage_bucket": "lead-india.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802869710610:android:a1c97d04b7a29e21902dcb",
+        "android_client_info": {
+          "package_name": "com.example.lead_india_nm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802869710610-pd3ngepsgene5o0a85udnp93gsr8dr3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFsSjW88ZPBnDj4hTBNDE73XODsvwq0OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802869710610-pd3ngepsgene5o0a85udnp93gsr8dr3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
